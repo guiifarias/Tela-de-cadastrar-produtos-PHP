@@ -1,4 +1,4 @@
-# Tela de cadastro em php, html e css
+<h1 align="center" style="font-size: 30px; font-weight: bold; margin-bottom: 32px">Tela de cadastro em php, html e css </h1>
 <h3 align="center" style="font-size: 30px; font-weight: bold; margin-bottom: 32px">
   Tela de cadastro 
 </h3>
